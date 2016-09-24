@@ -6,20 +6,5 @@ categories: eikenottt update
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `eikenottt serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-eikenottt also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [eikenottt docs][eikenottt-docs] for more info on how to get the most out of eikenottt. File all bugs/feature requests at [eikenottt’s GitHub repo][eikenottt-gh]. If you have questions, you can ask them on [eikenottt Talk][eikenottt-talk].
-
-[eikenottt-docs]: http://jekyllrb.com/docs/home
-[eikenottt-gh]:   https://github.com/eikenottt/eikenottt
-[eikenottt-talk]: https://talk.jekyllrb.com/
