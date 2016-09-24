@@ -14,7 +14,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bergenbutikker.no" # the base hostname & protocol for your site
 twitter_username: Bergenbutikker
 github_username:  Bergenbutikker
-headimg: "_includes/FramsideBiler2.jpg"
+headimg: "FramsideBiler2.jpg"
 
 # Build settings
 markdown: kramdown
